@@ -1,5 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/2u8x6vx28pd2dr1a?svg=true)](https://ci.appveyor.com/project/zuev720/ahj-7-1-client)
 
+[GitHub-pages](https://zuev720.github.io/ahj-7.1-client/)
 
 ### HelpDesk: Frontend
 
